@@ -1,2 +1,3 @@
 # linked-in-feed-page
-This project include linked in feed page made using HTML and CSS
+This project include LINKED IN FEED PAGE using HTML and CSS
+
